@@ -3,6 +3,6 @@ class Main {
     MoneyTest mt = new MoneyTest();
     mt.testMultiplication();
     mt.testEquality();
-    mt.testFrancMultiplication();
+    mt.testCurrency();
   }
 }
